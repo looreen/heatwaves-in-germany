@@ -1,4 +1,4 @@
-# heatwaves-in-germany
+# Heatwaves in Germany
 
 Reading a report on heatwaves in Sweden, I was interested in creating something similar for Germany:
 
